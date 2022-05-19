@@ -16,3 +16,21 @@ glutSolidSphere(): The glutSolidSphere() function draws a shaded sphere centered
 glRotatef(): The glRotatef function computes a matrix that performs a counterclockwise rotation of angle degrees about the vector from the origin through the point (x, y, z).
 
 
+
+**Tools Stack**
+Language: C++
+IDE: CodeBlocks
+Library: Glut, freeglut, OpenGL
+
+
+**Author**
+Name: Tarekur Rahman
+ID: 181-115-063
+Dept. of CSE
+Metropolitan University, Sylhet
+
+ **Project supervisor**
+Name: Masum Ahmed Eesha
+Lecturer
+Dept. of CSE
+Metropolitan University, Sylhet
