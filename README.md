@@ -1,3 +1,4 @@
+1)First I have installed GLUT.Then I have created a GLUT project by following these few steps-
 ![284270145_712300143306668_2246668397433690781_n](https://user-images.githubusercontent.com/64380361/170829243-71671143-28fd-4dbf-b5f3-2b00c260b620.jpg)
 # Flying_Aeroplane_
 Assalamualaikum everyone! Here I have uploaded my OpenGL project : Flying Aroplane.Typecally  the significance of this  project is how a palne fly over the particular angle cordinates.Body shape of Plane is rectangular and cockpit was designed by two colours(Gray with Red).It wings was designed as well.Basically You will see three types layer of roads(Black,White and Blue) which were made using c++ codes. This is an amazing demonstration of the beautiful c++ codes. It shows how anyone can show beautiful colors and brilliant logic in a C++ project. In order to know how this works you must have the idea about the language C++.
